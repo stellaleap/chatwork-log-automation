@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+._*
+
+# Claude Code
+.claude/
+
+# GAS
+.clasp-staging/
+*.gs.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs / deps
+*.log
+node_modules/
+
+# Secrets
+.env
+.env.*
